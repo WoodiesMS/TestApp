@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first_hilltop_acitivity">FirstHilltopAcitivity</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_lgbu">Lagerbuchung</string>
+    <string name="title_Komm">Kommissionierung</string>
+    <string name="title_Inv">Inventur</string>
+    <string name="title_cancel">Abbrechen</string>
+</resources>

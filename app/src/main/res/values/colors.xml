@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CB0F38</color>
+    <color name="colorPrimaryDark">#677367</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lgbu_default">#0F54CB</color>
+    <color name="komm_Default">#DBDB1C</color>
+    <color name="inv_Default">#158A4A</color>
+    <color name="cancel_Default">#D42515</color>
+</resources>
